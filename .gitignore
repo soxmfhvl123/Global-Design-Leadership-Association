@@ -1,0 +1,11 @@
+# Archive folder (includes large .mov file)
+_archive/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.swp
